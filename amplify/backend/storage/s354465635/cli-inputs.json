@@ -1,0 +1,14 @@
+{
+  "resourceName": "s354465635",
+  "policyUUID": "54465635",
+  "bucketName": "film238789ddb3f343c7bd3cbec1a7a4acf7",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger6a4bd587",
+  "groupAccess": {}
+}

@@ -14,6 +14,15 @@
     "categories": {
       "auth": {
         "film": {}
+      },
+      "function": {
+        "S3Trigger6a4bd587": {
+          "deploymentBucketName": "amplify-film-staging-165010-deployment",
+          "s3Key": "amplify-builds/S3Trigger6a4bd587-6c414135584556684974-build.zip"
+        }
+      },
+      "storage": {
+        "s354465635": {}
       }
     }
   }
